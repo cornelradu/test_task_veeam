@@ -1,0 +1,14 @@
+E:\Veeam\Monitor\Monitor\bin\Debug\net8.0\Monitor.exe
+E:\Veeam\Monitor\Monitor\bin\Debug\net8.0\Monitor.deps.json
+E:\Veeam\Monitor\Monitor\bin\Debug\net8.0\Monitor.runtimeconfig.json
+E:\Veeam\Monitor\Monitor\bin\Debug\net8.0\Monitor.dll
+E:\Veeam\Monitor\Monitor\bin\Debug\net8.0\Monitor.pdb
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfoInputs.cache
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.AssemblyInfo.cs
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.csproj.CoreCompileInputs.cache
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.dll
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\refint\Monitor.dll
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.pdb
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\Monitor.genruntimeconfig.cache
+E:\Veeam\Monitor\Monitor\obj\Debug\net8.0\ref\Monitor.dll

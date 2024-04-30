@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Veeam\\Monitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|e:\\veeam\\monitor\\testproject\\monitorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|solutionrelative:testproject\\monitorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|e:\\veeam\\monitor\\testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8C7E4D-3257-4060-BE3D-7DF4E0B8806D}|Monitor\\Monitor.csproj|e:\\veeam\\monitor\\monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8C7E4D-3257-4060-BE3D-7DF4E0B8806D}|Monitor\\Monitor.csproj|solutionrelative:monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|e:\\veeam\\monitor\\testproject\\programprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|solutionrelative:testproject\\programprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8C7E4D-3257-4060-BE3D-7DF4E0B8806D}|Monitor\\Monitor.csproj|e:\\veeam\\monitor\\monitor\\monitor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7A8C7E4D-3257-4060-BE3D-7DF4E0B8806D}|Monitor\\Monitor.csproj|solutionrelative:monitor\\monitor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|e:\\veeam\\monitor\\testproject\\testproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5F4A41DB-CE39-4E5A-B864-72E42A8A270D}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\TestProject\\UnitTest.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest.cs",
+              "ToolTip": "E:\\Veeam\\Monitor\\TestProject\\UnitTest.cs",
+              "RelativeToolTip": "TestProject\\UnitTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAywBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:54:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorProgram.cs",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\TestProject\\MonitorProgram.cs",
+              "RelativeDocumentMoniker": "TestProject\\MonitorProgram.cs",
+              "ToolTip": "E:\\Veeam\\Monitor\\TestProject\\MonitorProgram.cs",
+              "RelativeToolTip": "TestProject\\MonitorProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:39:39.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramProcess.cs",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\TestProject\\ProgramProcess.cs",
+              "RelativeDocumentMoniker": "TestProject\\ProgramProcess.cs",
+              "ToolTip": "E:\\Veeam\\Monitor\\TestProject\\ProgramProcess.cs",
+              "RelativeToolTip": "TestProject\\ProgramProcess.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:48:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\Monitor\\Program.cs",
+              "RelativeDocumentMoniker": "Monitor\\Program.cs",
+              "ToolTip": "E:\\Veeam\\Monitor\\Monitor\\Program.cs",
+              "RelativeToolTip": "Monitor\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:43:58.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestProject",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "E:\\Veeam\\Monitor\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T06:41:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Monitor",
+              "DocumentMoniker": "E:\\Veeam\\Monitor\\Monitor\\Monitor.csproj",
+              "RelativeDocumentMoniker": "Monitor\\Monitor.csproj",
+              "ToolTip": "E:\\Veeam\\Monitor\\Monitor\\Monitor.csproj",
+              "RelativeToolTip": "Monitor\\Monitor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-29T14:13:47.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
